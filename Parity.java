@@ -8,7 +8,7 @@
 
 import java.io.*;
 import java.util.*;
-public class Proj4 {
+public class Parity {
 
 	public static void main(String[] args) throws IOException {
 		//Scanners and Initialization

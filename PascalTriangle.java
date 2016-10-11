@@ -5,7 +5,7 @@
  * Lab Friday 7:30
  */
 import java.util.*;
-public class Proj3 {
+public class PascalTriangle {
 
 	public static void main(String[] args) {
 		int Bound=0;

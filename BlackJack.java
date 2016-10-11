@@ -5,7 +5,7 @@
  * Lab Friday 7:30
  */
 import java.util.*;
-public class Proj2 {
+public class BlackJack {
 
 	public static void main(String[] args) {
 		Scanner s = new Scanner(System.in);
